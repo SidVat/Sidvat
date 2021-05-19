@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**SidVat/Sidvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Suren Portfolio 
 
-Here are some ideas to get you started:
+<h1>Hi, I'm Suren! </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working as a Data Scientist, 
+Having around 10 years of experience in Data Science, ETL & Data Warehouse.
+Experienced working with vast data sets to break down information, gather relevant points and solve advanced business problems. 
+Skilled in predictive modelling, data mining and hypothetical testing.
+Offering 5 years of experience in improving business operations. 
+where I have completed my Bachelor of Engineering(B.E) in Computer Science and got First class with Distinction.
+
+
+➡️ SKILLS  : Data Scientist| Machine Leaning Engineer| Data Analyst| ETL |
+
+🔹️Machine Learning<br>
+🔹️Statistical Analysis<br>  
+🔹️Data Mining<br>
+🔹️Hypothesis Testing <br>
+🔹️Python( Numpy, Pandas, sklearn, Tenser flow) <br>
+🔹️Anaconda(Jupiter/Spider)<br>
+🔹️Matplotlib/Seaborne <br>  
+🔹️Google Cloud Platform <br>
+🔹️Azure Cloud <br>
+🔹️Docker <br>
+🔹️Flask/Pickle <br>
+🔹️SQL <br>
+🔹️ETL <br>  
+🔹️SQL Server/Oracle/DB2/MySQL <br>
+🔹️PowerBI <br>
+🔹️GitHub <br>
