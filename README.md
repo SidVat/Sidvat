@@ -1,7 +1,7 @@
 
 
 
-<h1>Hi, I'm Suren! ></h1>
+<h1>Hi, I'm Suren! </h1>
 
 Working as a Data Scientist, 
 Having around 10 years of experience in Data Science, ETL & Data Warehouse.
@@ -30,5 +30,5 @@ where I have completed my Bachelor of Engineering(B.E) in Computer Science and g
 🔹️PowerBI <br>
 🔹️GitHub <br>
 
-- My Portfolio-<a href="https://github.com/SidVat/Suren" target="_blank">@Website</a><br>
+- My Portfolio-<a href="https://sidvat.github.io/Sidvat/" target="_blank">@Website</a><br>
 - Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/sureenddar-7b5a05199/" target="_blank">@LinkedIn</a><br>
