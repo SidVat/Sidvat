@@ -1,5 +1,5 @@
 
-Suren Portfolio 
+
 
 <h1>Hi, I'm Suren! </h1>
 
