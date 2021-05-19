@@ -1,7 +1,7 @@
 
 
 
-<h1>Hi, I'm Suren! <img src="https://github.com/SidVat/Suren/blob/main/ai-robotics.jpeg/" width="600px" style="max-width:1000%;"></h1>
+<h1>Hi, I'm Suren! <img src="https://github.com/SidVat/Suren/blob/main/ai-roboticsN.jpeg/" width="600px" style="max-width:1000%;"></h1>
 
 Working as a Data Scientist, 
 Having around 10 years of experience in Data Science, ETL & Data Warehouse.
