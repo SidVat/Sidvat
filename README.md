@@ -29,3 +29,6 @@ where I have completed my Bachelor of Engineering(B.E) in Computer Science and g
 🔹️SQL Server/Oracle/DB2/MySQL <br>
 🔹️PowerBI <br>
 🔹️GitHub <br>
+
+- My Portfolio-<a href="https://github.com/SidVat/Suren" target="_blank">@Website</a><br>
+- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/sureenddar-7b5a05199/" target="_blank">@LinkedIn</a><br>
